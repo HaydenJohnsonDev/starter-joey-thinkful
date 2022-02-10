@@ -37,5 +37,9 @@ header nav ul li a {
     }
     header h1 {
         padding: 20px;
+        font-size: 48px;
+    }
+    header nav ul li a:hover{
+        color: lightslategray;
     }
 }
